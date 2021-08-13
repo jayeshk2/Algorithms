@@ -1,3 +1,4 @@
 # Algorithms
 Machine Learning
-Model Predicts Salary according to years of Experience using Simple Linear Regression  
+Model Predicts Salary according to years of experience using Linear Regression.
+Also created a app with help of Flask Framework.
